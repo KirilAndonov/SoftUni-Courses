@@ -1,2 +1,4 @@
 # SoftUni-Courses
-Courses from my education in SoftUni
+👋 Hi, I’m Kiril
+👀 I’m interested in code developing 
+🌱 I’m currently learning Java
